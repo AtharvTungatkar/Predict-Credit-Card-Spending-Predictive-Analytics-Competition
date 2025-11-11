@@ -12,3 +12,9 @@ education_level: Mode Imputation
 online_shopping_freq: Right skewed so median imputation
 utility_payment_count: Right skeweed hence median imputation
 RMSE=257.39143476396436
+
+# Submission 3
+Best Subset selection with the submission 2 imputations and using the Multiple Linear regression model.
+RMSE=
+
+# Submission 4
