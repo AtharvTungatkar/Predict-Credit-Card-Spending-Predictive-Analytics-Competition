@@ -15,6 +15,10 @@ RMSE=257.39143476396436
 
 # Submission 3
 Best Subset selection with the submission 2 imputations and using the Multiple Linear regression model.
-RMSE=
+RMSE=257.39685289133104      Less than submission 2
 
 # Submission 4
+In this submission I build on the submission 3 backward selection method. I used all variables that were used for submission 3. Then for numeric variables I perform EDA and then look for anytransformations.
+Majority of the variables were right skewed hence I applied log transformation to the right skewed variables.
+Basic EDA for categorical variables was done but we use them as they are from the submission 3.
+RMSE=277.70931827231027
