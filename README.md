@@ -27,6 +27,9 @@ RMSE=277.70931827231027
 Now I will try the MICE algorithm to fill in the missing values and then test it based on the best working submission 3. Train Test split was used and data was trained using the train dataset.
 Resulted in Lower test rmse score but not performed well in the actual scoring dataset.
 
-# SUbmission 6
+# Submission 6
 Lets use the same method in submission 5 and train on full train dataset.
 It was able to reduce the score to the lowest of first 5.
+
+# Submission 7
+Lets try out Median use instead of Mean in the Imputer of 6 th submission
