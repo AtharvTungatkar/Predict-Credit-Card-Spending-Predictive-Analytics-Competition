@@ -29,3 +29,4 @@ Resulted in Lower test rmse score but not performed well in the actual scoring d
 
 # SUbmission 6
 Lets use the same method in submission 5 and train on full train dataset.
+It was able to reduce the score to the lowest of first 5.
