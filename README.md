@@ -32,4 +32,17 @@ Lets use the same method in submission 5 and train on full train dataset.
 It was able to reduce the score to the lowest of first 5.
 
 # Submission 7
-Lets try out Median use instead of Mean in the Imputer of 6 th submission
+Lets try out Median use instead of Mean in the Imputer of 6 th submission.
+The mean imputation worked better.
+
+# Submission 8
+STandardize variables before regression. Performed well but didn't beat the mean imputation with MICE in submission 6.
+
+# Submission 9
+Tried Ridge, worked well. Transformed Y then tried ridge worked poorly.
+
+# Submissions 11
+Polynomial degree 3 with elasticnet. SSubmit this
+
+# Submission 15
+Target encoding polynomial elastic net submit this.
